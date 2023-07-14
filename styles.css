@@ -1,0 +1,24 @@
+.main, .image, .header, .btn {
+    display: flex;
+    justify-content: center;
+}
+body {
+    background: #B3E5BE;
+}
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+#one, #two {
+    padding: 20px;
+    background: greenyellow;
+    color: black;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 30px;
+}
